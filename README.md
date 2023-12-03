@@ -1,7 +1,9 @@
 # VoiceStylingModel
 ## DeepFake
 ## TTS
+
 결과물 sample은 파일들 중 .wav 파일 참조. 
+bark TTS 코드 수정하여 사용
 
 ## LipSync
 
