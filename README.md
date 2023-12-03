@@ -1,6 +1,7 @@
 # VoiceStylingModel
 ## DeepFake
 ## TTS
+https://github.com/pzxcvasd/VoiceStylingModel/blob/fd68480bf742cd2eb8fd6400ed697af0fb1b5a89/%EB%86%92_250_50_790.wav
 
 ## LipSync
 
