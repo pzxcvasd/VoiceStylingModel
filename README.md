@@ -1,7 +1,7 @@
 # VoiceStylingModel
 ## DeepFake
 ## TTS
-[높_250_50_790.wav]
+[높_250_50_790.wav]RIFF$p
 ## LipSync
 
 https://github.com/pzxcvasd/VoiceStylingModel/assets/144596857/ff8bc77e-a1bb-4d68-af43-866ba3722672
