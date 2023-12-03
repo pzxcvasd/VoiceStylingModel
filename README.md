@@ -2,7 +2,7 @@
 
 ## PREPARE
 
-datasets_yoo, audio, fine_output 폴더 만들기.
+#datasets_yoo, audio, fine_output 폴더 만들기.
 
 #@title Connect and check GPU and runtime
 from psutil import virtual_memory
