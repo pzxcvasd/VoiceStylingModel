@@ -4,7 +4,7 @@
 
 결과물 sample은 파일들 중 .wav 파일 참조. 
 
-bark TTS 코드 수정하여 사용
+참조: https://github.com/serp-ai/bark-with-voice-clone 와 https://github.com/JonathanFly/bark
 
 작업 환경:
 
