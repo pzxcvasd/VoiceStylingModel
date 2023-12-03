@@ -6,9 +6,9 @@
 
 참조: https://github.com/serp-ai/bark-with-voice-clone 와 https://github.com/JonathanFly/bark
 
-작업 환경:
+작업 환경: colab pro+ / google drive more than 200GB
 
-colab pro+ / google drive more than 200GB
+코드: .ipynb
 
 ## LipSync
 
