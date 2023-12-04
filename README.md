@@ -1,5 +1,8 @@
 # VoiceStylingModel
+![image](https://github.com/pzxcvasd/VoiceStylingModel/assets/139040422/75fc5d59-b835-4ec3-80db-2b5fd5cfc59d)
+
 ## DeepFake
+
 ## TTS
 
 결과물 sample은 파일들 중 .wav 파일 참조. 
@@ -9,6 +12,10 @@
 작업 환경: colab pro+ / google drive more than 200GB
 
 코드: .ipynb
+
+코드 구성:
+![image](https://github.com/pzxcvasd/VoiceStylingModel/assets/139040422/51dd30af-1338-403d-a84b-03b78b955f5c)
+
 
 ## LipSync
 
