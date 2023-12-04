@@ -1,6 +1,8 @@
 # VoiceStylingModel
 ![image](https://github.com/pzxcvasd/VoiceStylingModel/assets/139040422/75fc5d59-b835-4ec3-80db-2b5fd5cfc59d)
 
+최종결과물: talking
+
 ## DeepFake
 
 ## TTS
