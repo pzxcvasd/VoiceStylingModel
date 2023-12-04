@@ -4,8 +4,16 @@
 최종 통합 코드: talking yu.ipnyb
 
 ## DeepFake
-![image](https://github.com/pzxcvasd/VoiceStylingModel/assets/139040422/0bf4583c-e800-4e49-a622-67e78f1d48fe)
-https://github.com/pzxcvasd/VoiceStylingModel/assets/139040422/ef602c75-4bdc-4f2c-8266-0b866a4ba47d
+<img src="https://github.com/pzxcvasd/VoiceStylingModel/assets/139040422/0bf4583c-e800-4e49-a622-67e78f1d48fe" width="200" /> </br>
+### 1) DeepFaceLab 사용
+Github : https://github.com/iperov/DeepFaceLab </br>
+정확성이 높은 **SAEHD** 모델을 사용해 유재석 얼굴과 뉴스앵커 얼굴을 추출 후 학습을 진행한다. </br>
+<img src="https://github.com/pzxcvasd/project_backup/assets/99024754/05dfb1a0-b330-46f9-9d86-3dbb715eccb1" width ="250" /> </br>
+이후 나온 결과물(dfm) 을 바탕으로 DeepFaceLive 에서 face-swap 을 진행한다.
+
+### 2) DeepFaceLive 적용 영상
+각종 후처리 작업을 끝낸 최종 딥페이크 모델 결과물이다. </br>
+<img src="https://github.com/pzxcvasd/project_backup/assets/99024754/3d468528-6760-49da-a3ef-2c3c52697fb3" width="500" />
 
 
 ## TTS
