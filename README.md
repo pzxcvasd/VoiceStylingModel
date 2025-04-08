@@ -2,6 +2,7 @@
 ![image](https://github.com/pzxcvasd/VoiceStylingModel/assets/139040422/75fc5d59-b835-4ec3-80db-2b5fd5cfc59d)
 
 최종 통합 코드: talking yu.ipnyb
+</br>
 해당 주제 투고한 논문: 
 [입력 텍스트로부터 음성 스타일을 반영할 수 있는 가상 인간 연구.pdf](https://github.com/user-attachments/files/19654823/default.pdf)
 
