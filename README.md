@@ -5,9 +5,6 @@
 </br>
 해당 주제 투고한 논문: 
 [입력 텍스트로부터 음성 스타일을 반영할 수 있는 가상 인간 연구.pdf](https://github.com/user-attachments/files/19654823/default.pdf)
-</br> 
-보고서:[[3]입력텍스트를 읽어주는 voice styling 기반 딥페이크 모델 보고서.docx](https://github.com/user-attachments/files/19658454/3.voice.styling.docx)
-
 
 
 ## DeepFake
